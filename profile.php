@@ -24,11 +24,11 @@
                     </tr>
                     <tr>
                         <td align="right" width="50%"><strong>Telepon :</strong></td>
-                        <td align="left" width="50%">0821 60586 0065</td>
+                        <td align="left" width="50%">0821 5086 0065</td>
                     </tr>
                     <tr>
                         <td align="right" width="50%"><strong>email :</strong></td>
-                        <td align="left" width="50%">rizaldia@gmail.com</td>
+                        <td align="left" width="50%">rizaldipc@gmail.com</td>
                     </tr>
                     <tr>
                         <td align="right" width="50%"><strong>Media Sosial :</strong></td>
